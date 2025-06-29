@@ -13,11 +13,11 @@ https://cad.onshape.com/documents/796c38b270e72c4871a9677c/w/28c50ec203dddb21f0b
 
 ### PCB schematic
 
-![alt text](https://github.com/BeakerLink/Fi-Pad/blob/main/Assets/Scematic%20Screenshot.png)
+![alt text](https://github.com/BeakerLink/Fi-Pad/blob/main/Assets/Updated%20PCB%20schematic.png)
 
 ### PCB layout
 
-![alt text](https://github.com/BeakerLink/Fi-Pad/blob/main/Assets/PCB%20Screenshot.png)
+![alt text](https://github.com/BeakerLink/Fi-Pad/blob/main/Assets/Updated%20PCB%20layout.png)
 
 ### Full Case
 
